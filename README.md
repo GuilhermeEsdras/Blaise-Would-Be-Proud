@@ -65,7 +65,7 @@
 
 <!-- Objetivo -->
 ## Objetivo
-Este repositório foi criado com a finalidade de guardar meus projetos, ideias, anotações, exercícios e programas pessoais feitos em <strong>Go</strong>.
+Este repositório foi criado com a finalidade de guardar meus projetos, ideias, anotações, exercícios e programas pessoais feitos em <strong>Pascal</strong>.
 <!-- -->
 
 <!-- Material Utilizado -->
