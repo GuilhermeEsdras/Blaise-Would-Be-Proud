@@ -113,7 +113,7 @@ Criando e executando um programa simples com Free Pascal pelo CMD
   
   - Exemplo: <br/>
      `> cd "C:\Users\Guilherme\Documentos\Meus Programas\Pascal\Programa Hello World" // Para ir até a pasta do arquivo .pp` <br/>
-     `> fpc HelloWorld.pp // Para compilar um programa chamado "HelloWorld.pp"`
+     `> fpc HelloWorld.pp // Para compilar um programa chamado "HelloWorld.pp"` <br/>
      `> HelloWorld.exe // Para executar o programa (a extensão .exe pode ser omitida)`
 
 ### Exemplo de Hello World
